@@ -6,4 +6,4 @@ print(a)
 
 assert (a==1),"All good"
 
-#assert (a<=0),"a is less than zero"
+assert (a<=0),"a is less than zero"
