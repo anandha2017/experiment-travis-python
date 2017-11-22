@@ -14,5 +14,4 @@ install:
 
 # command to run tests
 script:
-  - python helloworld.py
-#  - pytest # or py.test for Python versions 3.5 and below
+  - python 01_HelloTravis/helloworld.py
